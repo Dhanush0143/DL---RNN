@@ -7,7 +7,7 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 
 
 ## Neural Network Model
-Include the neural network model diagram.
+Include the neural network model diagram. 
 
 ## DESIGN STEPS
 ### STEP 1: 
